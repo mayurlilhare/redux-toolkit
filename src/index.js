@@ -5,7 +5,8 @@ import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <App /> 
+    <App /> /// changes in mayurl
+    //needs to check if merger is successful.
 );
 
 
