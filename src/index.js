@@ -5,8 +5,10 @@ import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <App /> /// changes in mayurl
-    //needs to check if merger is successful.
+
+    //how are you handling merge conflicts
+    <App /> /// i dont my changes are overwritten in main 
+    //needs to check if merge conflict arise now
 );
 
 
